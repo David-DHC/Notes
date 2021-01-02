@@ -37,7 +37,7 @@ Contents
 
 .[8.1 虚函数与纯虚函数](https://david-dhc.github.io/OOP-Notes/8.1%20%E8%99%9A%E5%87%BD%E6%95%B0%E4%B8%8E%E7%BA%AF%E8%99%9A%E5%87%BD%E6%95%B0.html)
 
-.[8.2 重写隐藏与重写覆盖](https://david-dhc.github.io/OOP-Notes/8.2%20%E9%87%8D%E5%86%99%E9%9A%90%E8%97%8F%E4%B8%8E%E9%87%8D%E5%86%99%E8%A6%86%E7%9B%96.html.html)
+.[8.2 重写隐藏与重写覆盖](https://david-dhc.github.io/OOP-Notes/8.2%20%E9%87%8D%E5%86%99%E9%9A%90%E8%97%8F%E4%B8%8E%E9%87%8D%E5%86%99%E8%A6%86%E7%9B%96.html)
 
 .[9.1 类型转换](https://david-dhc.github.io/OOP-Notes/9.1%20%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.html)
 
